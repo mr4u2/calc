@@ -11,7 +11,7 @@ def multiply(x, y):
 
 
 def divide(x, y):
-    pass
+    return x /  y
 
 # Extra linefeeds added
 # Nu weer in subtract
