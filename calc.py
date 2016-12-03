@@ -10,8 +10,8 @@ def multiply(x, y):
     return x * y
 
 
-def divide(x, y):
-    pass
+def divide(x, z):
+    return x / z
 
 # Extra linefeeds added
 # Nu weer in subtract
