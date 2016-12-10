@@ -8,7 +8,6 @@ def subtract(x, y):
     return x - y
 
 
-# test 2345
 def multiply(x, y):
     return x * y
 
