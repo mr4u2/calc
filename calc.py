@@ -15,7 +15,7 @@ def multiply(x, y):
 def divide(x, z):
     return x / z
 
-# Extra linefeeds added
+# Extra line feeds added
 # Nu weer in subtract
 # Added in divide
 # test stash
@@ -29,3 +29,5 @@ def bbb(x):
         res.append(a)
         a, b = b, a + b
     return res
+
+# To see difference between fetch and pull
